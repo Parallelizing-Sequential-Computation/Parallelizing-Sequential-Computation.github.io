@@ -1,0 +1,14 @@
+base_url = "https://parallelizing-sequential-computation.github.io"
+compile_sass = true
+build_search_index = false
+generate_feeds = false
+minify_html = true
+theme = "academic-workshop"
+
+[markdown]
+smart_punctuation = true
+
+[extra]
+title = {title = "Parallelizing Sequential Computation", subtitles = ["Flatiron Institute, New York City", "February 4–5, 2027", "In-person only · By invitation only"], url = true}
+buttons = [{name = "Speakers", url = "/#speakers"}, {name = "Organizers", url = "/#organizers"}]
+header_pages = [{name = "Home", url = "/#home"}, {name = "Speakers", url = "/#speakers"}, {name = "Organizers", url = "/#organizers"}]
