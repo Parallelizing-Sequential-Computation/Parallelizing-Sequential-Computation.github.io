@@ -1,3 +1,4 @@
 .DS_Store
 /static/processed_images
 /public
+/.quarto/

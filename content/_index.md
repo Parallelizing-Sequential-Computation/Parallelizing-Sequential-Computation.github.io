@@ -41,8 +41,11 @@ We hope this workshop can serve as an opportunity to meet face-to-face with rese
 - Will Merrill
 - Michael Psenka
 - Yang Song
-- Zhiwei Tang
 - Skyler Wu
+- Teresa Nguyen
+- Adrien Corenflos
+- Riccardo Grazzi
+- Julien Siems
 
 {{ new_block() }}
 
